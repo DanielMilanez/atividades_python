@@ -20,10 +20,8 @@ Este repositório tem como objetivo:
 
 Durante o curso, foram utilizadas diversas tecnologias, incluindo, mas não se limitando a:
 
-- **Linguagens de Programação**: Python, Java, C, SQL.
-- **Ferramentas e Frameworks**: Git, GitHub, Node.js, Bootstrap.
-- **Bancos de Dados**: MySQL, PostgreSQL.
-- **Outras**: Algoritmos e Estruturas de Dados, HTML/CSS.
+- **Linguagens de Programação**: Python, C.
+- **Ferramentas e Frameworks**: Git, GitHub.
 
 ## Como Utilizar este Repositório
 
